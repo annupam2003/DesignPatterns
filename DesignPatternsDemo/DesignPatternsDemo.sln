@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDesignPattern"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\03FactoryMethodDesignPattern\Client\Client.csproj", "{91E91C1A-7084-40E9-8EC9-94618F33C49A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04AbstractFactoryDesignPattern", "04AbstractFactoryDesignPattern", "{3630DDBD-083E-429A-8567-EDCDA4AA4793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,7 @@ Global
 		{BB0C820A-47AE-4107-96BE-525EE04611F0} = {B5471769-CFDD-4C51-8866-A491E96496B9}
 		{82A1184D-8705-4DFA-A1DD-9FF9556B8D99} = {BB0C820A-47AE-4107-96BE-525EE04611F0}
 		{91E91C1A-7084-40E9-8EC9-94618F33C49A} = {BB0C820A-47AE-4107-96BE-525EE04611F0}
+		{3630DDBD-083E-429A-8567-EDCDA4AA4793} = {B5471769-CFDD-4C51-8866-A491E96496B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B08EB60-9DF8-41F6-A6D1-A2519B2374A8}

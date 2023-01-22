@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\FactoryMethodDesignPattern.csproj",
+      "projectUniqueName": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\FactoryMethodDesignPattern.csproj",
       "projectName": "FactoryMethodDesignPattern",
-      "projectPath": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\FactoryMethodDesignPattern.csproj",
+      "projectPath": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\FactoryMethodDesignPattern.csproj",
       "packagesPath": "C:\\Users\\Anupam Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\obj\\",
+      "outputPath": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\03FactoryMethodDesignPattern\\FactoryMethodDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

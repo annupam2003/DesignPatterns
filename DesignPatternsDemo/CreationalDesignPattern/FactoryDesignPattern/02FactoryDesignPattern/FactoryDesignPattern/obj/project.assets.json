@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\FactoryDesignPattern.csproj",
+      "projectUniqueName": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\FactoryDesignPattern.csproj",
       "projectName": "FactoryDesignPattern",
-      "projectPath": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\FactoryDesignPattern.csproj",
+      "projectPath": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\FactoryDesignPattern.csproj",
       "packagesPath": "C:\\Users\\Anupam Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Interview\\DesignPattern\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\obj\\",
+      "outputPath": "D:\\Interview\\DesignPatterns\\DesignPatternsDemo\\CreationalDesignPattern\\FactoryDesignPattern\\02FactoryDesignPattern\\FactoryDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
