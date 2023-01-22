@@ -9,23 +9,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryDesignPattern", "Fac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01WithoutFactory", "01WithoutFactory", "{06EC0E24-92D8-40EB-A70D-25717492844F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutFactory", "CreationalDesignPattern\FactoryDesignPattern\01WithoutFactory\WithoutFactory\WithoutFactory.csproj", "{09FEE3A7-74AE-4612-9D63-CF354D77FAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutFactory", "CreationalDesignPattern\FactoryDesignPattern\01WithoutFactory\WithoutFactory\WithoutFactory.csproj", "{09FEE3A7-74AE-4612-9D63-CF354D77FAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\01WithoutFactory\Client\Client.csproj", "{3E641E6C-8E4E-414E-9CAC-C2D612859979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\01WithoutFactory\Client\Client.csproj", "{3E641E6C-8E4E-414E-9CAC-C2D612859979}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02FactoryDesignPattern", "02FactoryDesignPattern", "{2F186110-9322-4AE3-A783-BC61D64063FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "CreationalDesignPattern\FactoryDesignPattern\02FactoryDesignPattern\FactoryDesignPattern\FactoryDesignPattern.csproj", "{91E5790E-1A93-418E-B946-350376951C1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPattern", "CreationalDesignPattern\FactoryDesignPattern\02FactoryDesignPattern\FactoryDesignPattern\FactoryDesignPattern.csproj", "{91E5790E-1A93-418E-B946-350376951C1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\02FactoryDesignPattern\Client\Client.csproj", "{BA1844BC-F7E2-4A57-8CAD-CCDA7A9CCA59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\02FactoryDesignPattern\Client\Client.csproj", "{BA1844BC-F7E2-4A57-8CAD-CCDA7A9CCA59}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03FactoryMethodDesignPattern", "03FactoryMethodDesignPattern", "{BB0C820A-47AE-4107-96BE-525EE04611F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDesignPattern", "CreationalDesignPattern\FactoryDesignPattern\03FactoryMethodDesignPattern\FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{82A1184D-8705-4DFA-A1DD-9FF9556B8D99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodDesignPattern", "CreationalDesignPattern\FactoryDesignPattern\03FactoryMethodDesignPattern\FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{82A1184D-8705-4DFA-A1DD-9FF9556B8D99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\03FactoryMethodDesignPattern\Client\Client.csproj", "{91E91C1A-7084-40E9-8EC9-94618F33C49A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "CreationalDesignPattern\FactoryDesignPattern\03FactoryMethodDesignPattern\Client\Client.csproj", "{91E91C1A-7084-40E9-8EC9-94618F33C49A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04AbstractFactoryDesignPattern", "04AbstractFactoryDesignPattern", "{3630DDBD-083E-429A-8567-EDCDA4AA4793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDesignPattern", "CreationalDesignPattern\FactoryDesignPattern\04AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern.csproj", "{B08D568A-AA74-47B4-9F4F-B02377A1F332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinet", "CreationalDesignPattern\FactoryDesignPattern\04AbstractFactoryDesignPattern\Clinet\Clinet.csproj", "{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{91E91C1A-7084-40E9-8EC9-94618F33C49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E91C1A-7084-40E9-8EC9-94618F33C49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E91C1A-7084-40E9-8EC9-94618F33C49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08D568A-AA74-47B4-9F4F-B02377A1F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08D568A-AA74-47B4-9F4F-B02377A1F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08D568A-AA74-47B4-9F4F-B02377A1F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08D568A-AA74-47B4-9F4F-B02377A1F332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +85,8 @@ Global
 		{82A1184D-8705-4DFA-A1DD-9FF9556B8D99} = {BB0C820A-47AE-4107-96BE-525EE04611F0}
 		{91E91C1A-7084-40E9-8EC9-94618F33C49A} = {BB0C820A-47AE-4107-96BE-525EE04611F0}
 		{3630DDBD-083E-429A-8567-EDCDA4AA4793} = {B5471769-CFDD-4C51-8866-A491E96496B9}
+		{B08D568A-AA74-47B4-9F4F-B02377A1F332} = {3630DDBD-083E-429A-8567-EDCDA4AA4793}
+		{AA7B675F-9A66-4D02-B1CE-B4F0C430B8BD} = {3630DDBD-083E-429A-8567-EDCDA4AA4793}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B08EB60-9DF8-41F6-A6D1-A2519B2374A8}
