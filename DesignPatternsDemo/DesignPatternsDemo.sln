@@ -41,9 +41,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuilderDesignPattern", "Bui
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01BuilderDesignPattern", "01BuilderDesignPattern", "{DD6DAA0D-A8AB-4CFB-9F02-CA301872F5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern", "CreationalDesignPattern\BuilderDesignPattern\01BuilderDesignPattern\BuilderDesignPattern\BuilderDesignPattern.csproj", "{4E9A8A16-5858-4959-8EE7-D5AAA013B295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDesignPattern", "CreationalDesignPattern\BuilderDesignPattern\01BuilderDesignPattern\BuilderDesignPattern\BuilderDesignPattern.csproj", "{4E9A8A16-5858-4959-8EE7-D5AAA013B295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\BuilderDesignPattern\01BuilderDesignPattern\Client\Client.csproj", "{AB0E3288-F703-4A23-9D83-EB47246A67DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "CreationalDesignPattern\BuilderDesignPattern\01BuilderDesignPattern\Client\Client.csproj", "{AB0E3288-F703-4A23-9D83-EB47246A67DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluentInterfaceDesignPattern", "FluentInterfaceDesignPattern", "{FBACC61F-520A-4872-B06A-ECD5EE45779C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01FluentInterfaceDesignPattern", "01FluentInterfaceDesignPattern", "{4B653D1E-7DC2-48BB-B090-01D61B26CC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterfaceDesignPattern", "CreationalDesignPattern\FluentInterfaceDesignPattern\01FluentInterfaceDesignPattern\FluentInterfaceDesignPattern\FluentInterfaceDesignPattern.csproj", "{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "CreationalDesignPattern\FluentInterfaceDesignPattern\01FluentInterfaceDesignPattern\Client\Client.csproj", "{93ADF618-ABBF-473B-9DDC-40CE549C7319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +107,14 @@ Global
 		{AB0E3288-F703-4A23-9D83-EB47246A67DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB0E3288-F703-4A23-9D83-EB47246A67DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB0E3288-F703-4A23-9D83-EB47246A67DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ADF618-ABBF-473B-9DDC-40CE549C7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ADF618-ABBF-473B-9DDC-40CE549C7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ADF618-ABBF-473B-9DDC-40CE549C7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ADF618-ABBF-473B-9DDC-40CE549C7319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,6 +140,10 @@ Global
 		{DD6DAA0D-A8AB-4CFB-9F02-CA301872F5CE} = {10F00FEA-081A-4AA9-89AE-9831CB1A32D3}
 		{4E9A8A16-5858-4959-8EE7-D5AAA013B295} = {DD6DAA0D-A8AB-4CFB-9F02-CA301872F5CE}
 		{AB0E3288-F703-4A23-9D83-EB47246A67DB} = {DD6DAA0D-A8AB-4CFB-9F02-CA301872F5CE}
+		{FBACC61F-520A-4872-B06A-ECD5EE45779C} = {CB3B9010-8B45-4A10-AF1D-D261A60BF419}
+		{4B653D1E-7DC2-48BB-B090-01D61B26CC9B} = {FBACC61F-520A-4872-B06A-ECD5EE45779C}
+		{2D7A5263-BB8F-4CA2-BF6E-D41AC3FB13D6} = {4B653D1E-7DC2-48BB-B090-01D61B26CC9B}
+		{93ADF618-ABBF-473B-9DDC-40CE549C7319} = {4B653D1E-7DC2-48BB-B090-01D61B26CC9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B08EB60-9DF8-41F6-A6D1-A2519B2374A8}
